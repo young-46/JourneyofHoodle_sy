@@ -1,0 +1,20 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Baselib.LowLevel.Binding::Baselib_RegisteredNetwork_Socket_UDP_ProcessSend_Injected",
+      "FullName": "Unity.Baselib.LowLevel.Binding.Baselib_RegisteredNetwork_Socket_UDP_ProcessSend_Injected(ref Unity.Baselib.LowLevel.Binding.Baselib_RegisteredNetwork_Socket_UDP socket, Unity.Baselib.LowLevel.Binding.Baselib_ErrorState* errorState) -> Unity.Baselib.LowLevel.Binding.Baselib_RegisteredNetwork_ProcessStatus_93d5e8b958571ac1e2da6456150200c1"
+    },
+    {
+      "Name": "Unity.Baselib.LowLevel.Binding::Baselib_RegisteredNetwork_Socket_UDP_DequeueSend_Injected",
+      "FullName": "Unity.Baselib.LowLevel.Binding.Baselib_RegisteredNetwork_Socket_UDP_DequeueSend_Injected(ref Unity.Baselib.LowLevel.Binding.Baselib_RegisteredNetwork_Socket_UDP socket, Unity.Baselib.LowLevel.Binding.Baselib_RegisteredNetwork_CompletionResult* results, uint resultsCount, Unity.Baselib.LowLevel.Binding.Baselib_ErrorState* errorState) -> uint_93d5e8b958571ac1e2da6456150200c1"
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle::CheckReadAndThrowNoEarlyOut_Injected",
+      "FullName": "Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle.CheckReadAndThrowNoEarlyOut_Injected(ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle) -> void_93d5e8b958571ac1e2da6456150200c1"
+    },
+    {
+      "Name": "burst_abort",
+      "FullName": "unused.burst_abort(System.String errorId, System.String message) -> void"
+    }
+  ]
+}
